@@ -1,0 +1,14 @@
+#local-media {
+    float: left;
+    height: 50vh !important;
+    width: 50vh !important;
+}
+#remote-media-div{
+    float: left;
+    height: 50vh !important;
+    width: 50vh !important;
+}
+#remote-media-div video, #local-media video{
+    height: 50vh !important;
+    width: 50vh !important;
+}
